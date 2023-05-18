@@ -16,7 +16,7 @@ public class Main
         {
             sum += i;
         }
-        ;
+        
         int mult = 1;
         for (int i=2; i<=a; ++i)
         {
