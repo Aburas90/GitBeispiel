@@ -28,5 +28,6 @@ public class Main
         
         System.out.println("Summe: "+sum+", Mult: "+mult);
         //Feature Update 1
+        //Feature Update 2
     }
 }
