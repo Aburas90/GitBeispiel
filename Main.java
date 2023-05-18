@@ -10,17 +10,16 @@ public class Main
 {
     public static void main (String args[])
     {
-
-        int ob = 10;
+        int obereGrenze = 10;
         int sum = 0;
-        for(int i=0; i<=ob; ++i)
+        for(int i=0; i<=obereGrenze; ++i)
 
         {
             sum += i;
         }
         
         int mult = 1;
-        for (int i=2; i<=ob; ++i)
+        for (int i=2; i<=obereGrenze; ++i)
 
         {
             mult *= i;
