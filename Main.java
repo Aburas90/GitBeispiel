@@ -22,5 +22,7 @@ public class Main
         {
             mult *= i;
         }
+        
+        System.out.println("Summe: "+sum+", Mult: "+mult);
     }
 }
