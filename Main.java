@@ -18,11 +18,11 @@ public class Main
             sum += i;
         }
         
-        int mult = 1;
+        double mult = 1;
         for (int i=2; i<=obereGrenze; ++i)
 
         {
-            mult *= i;
+            mult = mult * i;
         }
         
         System.out.println("Summe: "+sum+", Mult: "+mult);
