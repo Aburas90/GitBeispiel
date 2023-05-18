@@ -16,5 +16,11 @@ public class Main
         {
             sum += i;
         }
+        int b = 5;
+        int mult = 1;
+        for (int i=2; i<=b; ++i)
+        {
+            mult *= i;
+        }
     }
 }
