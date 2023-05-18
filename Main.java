@@ -10,7 +10,7 @@ public class Main
 {
     public static void main (String args[])
     {
-        int obereGrenze = 10;
+        int obereGrenze = 50;
         int sum = 0;
         for(int i=0; i<=obereGrenze; ++i)
 
